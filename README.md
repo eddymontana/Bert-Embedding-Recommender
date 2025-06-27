@@ -32,8 +32,8 @@ We simulate a simple semantic search system where:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/eddymontana/token-recommender.git
-   cd token-recommender
+   git clone https://github.com/eddymontana/Bert-token-recommender.git
+   cd Bert-token-recommender
 
 
 
